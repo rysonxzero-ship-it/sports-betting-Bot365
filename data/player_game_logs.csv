@@ -1,0 +1,37 @@
+date,sport,player,team,opponent,stat,value
+2025-04-01,baseball,Mike Trout,Angels,Astros,hits,1
+2025-04-03,baseball,Mike Trout,Angels,Astros,hits,2
+2025-04-05,baseball,Mike Trout,Angels,Mariners,hits,0
+2025-04-07,baseball,Mike Trout,Angels,Mariners,hits,1
+2025-04-09,baseball,Mike Trout,Angels,Rangers,hits,3
+2025-04-11,baseball,Mike Trout,Angels,Rangers,hits,1
+2025-04-01,baseball,Aaron Judge,Yankees,Red Sox,home_runs,0
+2025-04-03,baseball,Aaron Judge,Yankees,Red Sox,home_runs,1
+2025-04-05,baseball,Aaron Judge,Yankees,Rays,home_runs,0
+2025-04-07,baseball,Aaron Judge,Yankees,Rays,home_runs,2
+2025-04-09,baseball,Aaron Judge,Yankees,Orioles,home_runs,1
+2025-04-11,baseball,Aaron Judge,Yankees,Orioles,home_runs,0
+2025-09-07,football,Patrick Mahomes,Chiefs,Ravens,passing_yards,275
+2025-09-14,football,Patrick Mahomes,Chiefs,Bengals,passing_yards,310
+2025-09-21,football,Patrick Mahomes,Chiefs,Falcons,passing_yards,290
+2025-09-28,football,Patrick Mahomes,Chiefs,Jets,passing_yards,255
+2025-10-05,football,Patrick Mahomes,Chiefs,Broncos,passing_yards,320
+2025-10-12,football,Patrick Mahomes,Chiefs,Raiders,passing_yards,300
+2025-09-07,football,Christian McCaffrey,49ers,Jets,touchdowns,1
+2025-09-14,football,Christian McCaffrey,49ers,Vikings,touchdowns,2
+2025-09-21,football,Christian McCaffrey,49ers,Cardinals,touchdowns,1
+2025-09-28,football,Christian McCaffrey,49ers,Rams,touchdowns,0
+2025-10-05,football,Christian McCaffrey,49ers,Seahawks,touchdowns,2
+2025-10-12,football,Christian McCaffrey,49ers,Cowboys,touchdowns,1
+2025-08-16,soccer,Erling Haaland,Man City,Chelsea,goals,1
+2025-08-23,soccer,Erling Haaland,Man City,Arsenal,goals,2
+2025-08-30,soccer,Erling Haaland,Man City,Liverpool,goals,0
+2025-09-06,soccer,Erling Haaland,Man City,Tottenham,goals,1
+2025-09-13,soccer,Erling Haaland,Man City,Everton,goals,1
+2025-09-20,soccer,Erling Haaland,Man City,Newcastle,goals,2
+2025-08-16,soccer,Kylian Mbappe,Real Madrid,Barcelona,shots_on_target,3
+2025-08-23,soccer,Kylian Mbappe,Real Madrid,Sevilla,shots_on_target,4
+2025-08-30,soccer,Kylian Mbappe,Real Madrid,Valencia,shots_on_target,2
+2025-09-06,soccer,Kylian Mbappe,Real Madrid,Villarreal,shots_on_target,5
+2025-09-13,soccer,Kylian Mbappe,Real Madrid,Betis,shots_on_target,3
+2025-09-20,soccer,Kylian Mbappe,Real Madrid,Athletic Bilbao,shots_on_target,4

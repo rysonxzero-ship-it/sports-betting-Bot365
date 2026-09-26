@@ -1,0 +1,7 @@
+sport,player,stat,line,over_odds,under_odds
+baseball,Mike Trout,hits,0.5,1.91,1.91
+baseball,Aaron Judge,home_runs,0.5,1.91,1.91
+football,Patrick Mahomes,passing_yards,279.5,1.91,1.91
+football,Christian McCaffrey,touchdowns,0.5,1.91,1.91
+soccer,Erling Haaland,goals,0.5,1.91,1.91
+soccer,Kylian Mbappe,shots_on_target,2.5,1.91,1.91

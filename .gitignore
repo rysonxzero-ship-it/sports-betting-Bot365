@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+elo_ratings.json
+
